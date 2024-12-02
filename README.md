@@ -1,3 +1,3 @@
 # Holiday-Recipe
 
-In order to build the best recipe wrk together
+In order to build the best recipe work together
